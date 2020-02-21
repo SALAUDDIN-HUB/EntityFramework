@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\ASSIGNMENTENTITY\bin\Debug\netcoreapp3.1\ASSIGNMENTENTITY.deps.json
+C:\Users\Dell\source\repos\ASSIGNMENTENTITY\bin\Debug\netcoreapp3.1\ASSIGNMENTENTITY.dll
+C:\Users\Dell\source\repos\ASSIGNMENTENTITY\obj\Debug\netcoreapp3.1\ASSIGNMENTENTITY.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ASSIGNMENTENTITY\obj\Debug\netcoreapp3.1\ASSIGNMENTENTITY.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ASSIGNMENTENTITY\obj\Debug\netcoreapp3.1\ASSIGNMENTENTITY.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\ASSIGNMENTENTITY\bin\Debug\netcoreapp3.1\ASSIGNMENTENTITY.runtimeconfig.json
+C:\Users\Dell\source\repos\ASSIGNMENTENTITY\bin\Debug\netcoreapp3.1\ASSIGNMENTENTITY.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ASSIGNMENTENTITY\bin\Debug\netcoreapp3.1\ASSIGNMENTENTITY.pdb
+C:\Users\Dell\source\repos\ASSIGNMENTENTITY\obj\Debug\netcoreapp3.1\ASSIGNMENTENTITY.dll
+C:\Users\Dell\source\repos\ASSIGNMENTENTITY\obj\Debug\netcoreapp3.1\ASSIGNMENTENTITY.pdb

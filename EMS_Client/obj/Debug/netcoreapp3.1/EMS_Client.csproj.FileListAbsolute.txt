@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\EMS_Client\obj\Debug\netcoreapp3.1\EMS_Client.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EMS_Client\obj\Debug\netcoreapp3.1\EMS_Client.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\EMS_Client\obj\Debug\netcoreapp3.1\EMS_Client.AssemblyInfo.cs
+C:\Users\Dell\source\repos\EMS_Client\bin\Debug\netcoreapp3.1\EMS_Client.exe
+C:\Users\Dell\source\repos\EMS_Client\bin\Debug\netcoreapp3.1\EMS_Client.deps.json
+C:\Users\Dell\source\repos\EMS_Client\bin\Debug\netcoreapp3.1\EMS_Client.runtimeconfig.json
+C:\Users\Dell\source\repos\EMS_Client\bin\Debug\netcoreapp3.1\EMS_Client.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\EMS_Client\bin\Debug\netcoreapp3.1\EMS_Client.dll
+C:\Users\Dell\source\repos\EMS_Client\bin\Debug\netcoreapp3.1\EMS_Client.pdb
+C:\Users\Dell\source\repos\EMS_Client\obj\Debug\netcoreapp3.1\EMS_Client.dll
+C:\Users\Dell\source\repos\EMS_Client\obj\Debug\netcoreapp3.1\EMS_Client.pdb

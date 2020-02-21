@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\EFCODEDBFIRST\bin\Debug\netcoreapp3.1\EFCODEDBFIRST.deps.json
+C:\Users\Dell\source\repos\EFCODEDBFIRST\bin\Debug\netcoreapp3.1\EFCODEDBFIRST.dll
+C:\Users\Dell\source\repos\EFCODEDBFIRST\obj\Debug\netcoreapp3.1\EFCODEDBFIRST.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EFCODEDBFIRST\obj\Debug\netcoreapp3.1\EFCODEDBFIRST.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\EFCODEDBFIRST\obj\Debug\netcoreapp3.1\EFCODEDBFIRST.AssemblyInfo.cs
+C:\Users\Dell\source\repos\EFCODEDBFIRST\bin\Debug\netcoreapp3.1\EFCODEDBFIRST.runtimeconfig.json
+C:\Users\Dell\source\repos\EFCODEDBFIRST\bin\Debug\netcoreapp3.1\EFCODEDBFIRST.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\EFCODEDBFIRST\bin\Debug\netcoreapp3.1\EFCODEDBFIRST.pdb
+C:\Users\Dell\source\repos\EFCODEDBFIRST\obj\Debug\netcoreapp3.1\EFCODEDBFIRST.dll
+C:\Users\Dell\source\repos\EFCODEDBFIRST\obj\Debug\netcoreapp3.1\EFCODEDBFIRST.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.deps.json
+C:\Users\Dell\source\repos\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.dll
+C:\Users\Dell\source\repos\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.AssemblyInfo.cs
+C:\Users\Dell\source\repos\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.runtimeconfig.json
+C:\Users\Dell\source\repos\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\EFDAL\bin\Debug\netcoreapp3.1\EFDAL.pdb
+C:\Users\Dell\source\repos\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.dll
+C:\Users\Dell\source\repos\EFDAL\obj\Debug\netcoreapp3.1\EFDAL.pdb
